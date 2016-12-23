@@ -1,0 +1,74 @@
+
+
+$ws",
+"PropType:=", "VariableProp", "UserDef:=", 
+_
+
+ 
+true, "Value:=", "100um"), Array("NAME:$gh",
+"PropType:=", "VariableProp", "UserDef:=", 
+_
+
+ 
+true, "Value:=", "100um"), Array("NAME:$gg",
+"PropType:=", "VariableProp", "UserDef:=", 
+_
+
+ 
+true, "Value:=", "50um"), Array("NAME:$g2",
+"PropType:=", "VariableProp", "UserDef:=", 
+_
+
+ 
+true, "Value:=", "200um"), Array("NAME:$wg1",
+"PropType:=", "VariableProp", "UserDef:=", 
+_
+
+ 
+true, "Value:=", "2000um"), Array("NAME:$tm1",
+"PropType:=", "VariableProp", "UserDef:=", 
+_
+
+ 
+true, "Value:=", "18um"), Array("NAME:$tm2",
+"PropType:=", "VariableProp", "UserDef:=", 
+_
+
+ 
+true, "Value:=", "22um"), Array("NAME:$dm21",
+"PropType:=", "VariableProp", "UserDef:=", 
+_
+
+ 
+true, "Value:=", "30um"), Array("NAME:$td",
+"PropType:=", "VariableProp", "UserDef:=", 
+_
+
+ 
+true, "Value:=", "522um"), Array("NAME:$Lw",
+"PropType:=", "VariableProp", "UserDef:=", 
+_
+
+  true,
+"Value:=", "10000um"), Array("NAME:$hw",
+"PropType:=", "VariableProp", "UserDef:=", 
+_
+
+ 
+true, "Value:=", "2000um"), Array("NAME:$aw",
+"PropType:=", "VariableProp", "UserDef:=", 
+_
+
+ 
+true, "Value:=", "1um"), Array("NAME:$epsd",
+"PropType:=", "VariableProp", "UserDef:=", 
+_
+
+ 
+true, "Value:=", "4.9"), Array("NAME:$tand",
+"PropType:=", "VariableProp", "UserDef:=", 
+_
+
+  true,
+"Value:=", "0.018"))))
+
