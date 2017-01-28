@@ -1,0 +1,1 @@
+#frq = s_raw = AbstractFloat[]i_err, frq, s_raw = sxpparse(f_nm)println()println()println()println("output of sxpparse -------------"); println(); show(i_err); println();
